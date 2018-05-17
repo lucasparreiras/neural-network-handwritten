@@ -1,6 +1,6 @@
 # Redes Neuronais + Backpropagation - Dígitos Manuscritos
 
-## 2. Especificação
+## Especificação
 
 Neste trabalho deverá ser implementada uma rede neuronal com três camadas:
 
